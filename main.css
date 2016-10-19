@@ -7,3 +7,11 @@ ul{
 	color: steelblue;
 	list-style-type: none;
 }
+
+.checked{
+	text-decoration: line-through;
+}
+
+.notChecked{
+	text-decoration: none;
+}
