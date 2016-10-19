@@ -12,9 +12,6 @@ chk1.addEventListener('checked', function(){
 
 
 
-Make an index.html that contains the skeleton of an html page (html tag, body with Hello World)
-Change the page to contain only an unordered shopping list of items you need to eat your next meal.
-Add some inline styling to your html file (for example, center the list, change the text color, add a background image)
 Move all that inline style into an external CSS file
 Oh no! Your hard drive crashed. Delete your folder and clone from GitHub.
 Add checkboxes to you list item
